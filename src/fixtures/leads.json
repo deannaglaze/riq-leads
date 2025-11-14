@@ -1,0 +1,63 @@
+[
+  {
+    "id": 1,
+    "name": "Sarah Johnson",
+    "intentPercent": 85,
+    "vehicle": "2022 Honda Accord",
+    "tradeIn": "2018 Toyota Camry",
+    "receivedTime": "2024-01-15T08:30:00Z",
+    "nextSendTime": "2024-01-15T11:00:00Z",
+    "sequenceStage": "Follow-up 2"
+  },
+  {
+    "id": 2,
+    "name": "Michael Chen",
+    "intentPercent": 72,
+    "vehicle": "2023 Tesla Model 3",
+    "tradeIn": "2020 BMW 3 Series",
+    "receivedTime": "2024-01-15T09:15:00Z",
+    "nextSendTime": "2024-01-15T11:15:00Z",
+    "sequenceStage": "Initial Contact"
+  },
+  {
+    "id": 3,
+    "name": "Emily Rodriguez",
+    "intentPercent": 91,
+    "vehicle": "2024 Ford F-150",
+    "tradeIn": "2019 Ford Escape",
+    "receivedTime": "2024-01-15T09:45:00Z",
+    "nextSendTime": "2024-01-15T11:30:00Z",
+    "sequenceStage": "Follow-up 3"
+  },
+  {
+    "id": 4,
+    "name": "David Kim",
+    "intentPercent": 68,
+    "vehicle": "2023 Toyota RAV4",
+    "tradeIn": null,
+    "receivedTime": "2024-01-15T10:00:00Z",
+    "nextSendTime": "2024-01-15T12:00:00Z",
+    "sequenceStage": "Follow-up 1"
+  },
+  {
+    "id": 5,
+    "name": "Jessica Martinez",
+    "intentPercent": 79,
+    "vehicle": "2024 Chevrolet Silverado",
+    "tradeIn": "2021 GMC Sierra",
+    "receivedTime": "2024-01-15T10:20:00Z",
+    "nextSendTime": "2024-01-15T12:15:00Z",
+    "sequenceStage": "Follow-up 2"
+  },
+  {
+    "id": 6,
+    "name": "Robert Taylor",
+    "intentPercent": 55,
+    "vehicle": "2023 Subaru Outback",
+    "tradeIn": "2017 Subaru Forester",
+    "receivedTime": "2024-01-15T10:35:00Z",
+    "nextSendTime": "2024-01-15T12:30:00Z",
+    "sequenceStage": "Initial Contact"
+  }
+]
+
