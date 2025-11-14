@@ -1,5 +1,5 @@
 import { useState, useEffect, useCallback } from 'react';
-import { initialLeads } from '../fixtures/leads';
+import initialLeads from '../fixtures/leads.json';
 
 /**
  * Custom hook for managing leads state
